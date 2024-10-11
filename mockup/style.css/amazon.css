@@ -1,0 +1,176 @@
+body{
+    width: auto;
+    background-color: #E9EDEE;
+}
+.logo {
+    width: auto;
+    height: 70px;
+    background-color: #222f3e;
+    padding-top: 0.3em;
+}
+
+img{
+    height: 60px;
+    margin-left: 30px;
+}
+.option{
+    background-color: #364759;
+    height: 24px;
+    padding-top: 0.5em;
+    
+}
+a{
+    color: white;
+    margin-right: 20px;
+    
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    
+}
+.all{
+    margin-left: 30px;
+}
+.holiday{
+    width: auto;
+    height: 25px;
+    background-color: #f56600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 0.7em;
+    margin-left: 30px;
+    margin-right: 30px;
+   
+
+}
+
+
+
+.gift{
+    width: auto;
+    height: 130px;
+    background-image: url(./bg-image.png);
+    background-size: 1100px 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 4em;
+   
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+   margin-bottom: 1em;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+}
+.photo{
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    height: 400px;
+ width: auto;
+
+   
+}
+
+.gallery{
+    box-sizing: border-box;
+    border: 0px solid black;
+    height: 80%;
+    border-radius: 15px 15px 15px 15px;
+   margin-left: 20px;
+   display: inline-block;
+   margin-top: 18px;
+   box-shadow: 8px 7px 22px -3px #888888;
+   width: 22%;
+   
+ 
+
+}
+p{
+    padding-top: 1em;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.shop{
+    color: #0f7597;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+#photogallery{
+    margin-left: 20px;
+    width: auto;
+    margin-right: 30px;
+    height: 100%;
+}
+.sfondo{
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    height: 300px;
+ width: auto;
+ text-align: center;
+ background-image: url(./img_9.png);
+ background-size: cover;
+ 
+ 
+ 
+}
+.sfondo2{
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    height: 300px;
+ width: auto;
+ text-align: center;
+ background-image: url(./img_10.png);
+ background-size: cover;
+ 
+}
+.info{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+.back{
+    background-color: #364759;
+    height: 24px;
+    padding-top: 0.5em;
+    text-align: center;
+}
+footer{
+    margin-top: 30px;
+}
+.top{ color: white;
+    margin-right: 20px;
+    
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    
+
+}
+.footlogo{
+    width: auto;
+    height: 150px;
+    background-color: #222f3e;
+    padding-top: 4em;
+    text-align: center;
+}
